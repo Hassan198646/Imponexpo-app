@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Dashboard from './pages/Dasgboard';
 function App() {
   return (
     <div className="App">
-      <h1>Helllo</h1>
+      <Dashboard/>
     </div>
   );
 }
